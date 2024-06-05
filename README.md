@@ -154,7 +154,7 @@ remove      : 파일을 삭제하는 작업만 수행한 경우
 |![4홈피드](https://github.com/yonaisgood/2989-Project/assets/124084624/cd20edf7-9d3e-4182-823b-6671aa616b93)|![5 유저검색](https://github.com/yonaisgood/2989-Project/assets/124084624/e69fb7c1-7027-49f2-9cd3-d639e354db80)|
 <br>
 
-### 2) 게시물 CRUD
+### 3) 게시물 CRUD
 |게시물등록(다중선택)|게시물 수정/삭제|게시물 상세 페이지|
 | :---: | :---: | :---: |
 |![7 게시글작성](https://github.com/yonaisgood/2989-Project/assets/124084624/04190aeb-4b0b-4197-abe3-fee3ca7ca86b)|![상품 수정 : 삭제](https://github.com/yonaisgood/2989-Project/assets/124084624/330c1951-4422-434f-a204-8a795dd8e050)|![9 게시글상세(모아보기)](https://github.com/yonaisgood/2989-Project/assets/124084624/3861ecf9-b456-4378-a11d-db4abcfd47f8)|
@@ -162,14 +162,14 @@ remove      : 파일을 삭제하는 작업만 수행한 경우
 |![10 좋아요 댓글](https://github.com/yonaisgood/2989-Project/assets/124084624/d54ff915-19a9-4a00-97fb-c25a786d081f)|![11  댓글삭제](https://github.com/yonaisgood/2989-Project/assets/124084624/711b11fb-8e28-439f-a026-e3c3b7dcfcf4)|
 <br>
 
-### 3) 프로필
+### 4) 프로필
 |내 프로필(팔로워/잉)|내 프로필수정|
 | :---: | :---: |
 |![12  내 프로필(팔로워:잉)](https://github.com/yonaisgood/2989-Project/assets/124084624/fa93bdee-4e59-4723-bed1-7bfa6f72d7e1)| ![13  프로필수정](https://github.com/yonaisgood/2989-Project/assets/124084624/bdff0289-846a-400f-84f7-efaa1a4accb2)| 
 
 <br>
 
-### 4) 상품 CRUD
+### 5) 상품 CRUD
 |상품등록|상품 수정/삭제|판매상품 확인(카테고리별)|
 | :---: | :---: | :---: |
 |![상품등록](https://github.com/yonaisgood/2989-Project/assets/124084624/56e08a54-610c-4887-a7f9-22cde660e390)|![상품 수정 : 삭제](https://github.com/yonaisgood/2989-Project/assets/124084624/0fe5e542-53a0-4076-9666-4c09d359cbb0)|![판매상품 카테고리별 확인](https://github.com/yonaisgood/2989-Project/assets/124084624/dda8e936-4c77-4b54-af63-c79989398d23)|
